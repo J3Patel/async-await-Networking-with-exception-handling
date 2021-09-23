@@ -1,0 +1,13 @@
+
+{
+    "response": {
+        "data":
+        [{
+            "id": "1",
+            "type": "body_part",
+            "attributes": {
+                "name": "Knee"
+            }
+        }]
+    }
+}
